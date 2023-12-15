@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <table>
+            <tr>
+                <th scope="col"> saturtday </th>
+                <th scope="col">sunday</th>
+            </tr>
+            <tr>
+                <th scope="row">total sale</th>
+                <td>1312</td>
+                <td>1233</td>
+                <tr>
+ <th scope="row">Total sales:</th>
+ <td>$600</td>
+ <td>$675</td>
+ </tr>
+</table>
+</html>
+    </body>
